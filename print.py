@@ -1,2 +1,5 @@
 #!/usr/bin/python
-print('Bash successfull!')
+k = print('Bash successfull!')
+t = print('Hello Git')
+k = 2
+t
