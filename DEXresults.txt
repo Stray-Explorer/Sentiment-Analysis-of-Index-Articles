@@ -1,0 +1,2100 @@
+
+[('the', 82), ('to', 58), ('magyar', 46), ('Orbán', 46), ('nyugdíjak', 30), ('független', 30), ('orosz', 28), ('and', 28), ('Magyar', 26), ('közös', 26), ('sajtó', 24), ('of', 24), ('he', 24), ('was', 24), ('said', 24), ('Magyarországon', 22), ('politikai', 22), ('Filippov', 20), ('Putyin', 20), ('that', 20), ('meg.', 18), ('január', 18), ('ma', 18), ('legnagyobb', 18), ('government', 18)]
+input sentence
+the to magyar Orbán nyugdíjak független orosz and Magyar közös sajtó of he was said Magyarországon politikai Filippov Putyin that meg. január ma legnagyobb government
+negative probability
+0.5843142854172053
+positive probalitiy
+0.41568571458279385
+sentiment
+negative
+01-11  12:43
+
+
+[('the', 21), ('to', 15), ('Orbán', 12), ('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('and', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('of', 6), ('he', 6), ('was', 6), ('said', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5)]
+input sentence
+the to Orbán közös magyar ellenzéki ellenzék független orosz éves and nyugdíjak politikai százaléknyi sajtó Magyar of he was said MSZP-s parlamenti Magyarországon Filippov Putyin
+negative probability
+0.6745457463197931
+positive probalitiy
+0.32545425368020386
+sentiment
+negative
+01-11  12:45
+
+
+[('közös', 11), ('magyar', 10), ('lengyel', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('kínai', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('meg.', 5), ('Filippov', 5), ('Putyin', 5), ('Huawei', 5), ('lengyelországi', 5), ('Egy', 4), ('lista', 4)]
+input sentence
+közös magyar lengyel ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán kínai MSZP-s parlamenti Magyarországon meg. Filippov Putyin Huawei lengyelországi Egy lista
+negative probability
+0.8217115189810696
+positive probalitiy
+0.1782884810189295
+sentiment
+negative
+01-11  13:46
+
+
+[('közös', 11), ('magyar', 10), ('lengyel', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('kínai', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('meg.', 5), ('Filippov', 5), ('Putyin', 5), ('Huawei', 5), ('lengyelországi', 5), ('Egy', 4), ('lista', 4)]
+input sentence
+közös magyar lengyel ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán kínai MSZP-s parlamenti Magyarországon meg. Filippov Putyin Huawei lengyelországi Egy lista
+negative probability
+0.8217115189810696
+positive probalitiy
+0.1782884810189295
+sentiment
+negative
+01-11  13:47
+
+
+[('közös', 11), ('magyar', 10), ('lengyel', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('kínai', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('meg.', 5), ('Filippov', 5), ('Putyin', 5), ('Huawei', 5), ('lengyelországi', 5), ('Egy', 4), ('lista', 4)]
+input sentence
+közös magyar lengyel ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán kínai MSZP-s parlamenti Magyarországon meg. Filippov Putyin Huawei lengyelországi Egy lista
+negative probability
+0.8217115189810696
+positive probalitiy
+0.1782884810189295
+sentiment
+negative
+01-11  13:48
+
+
+[('közös', 11), ('magyar', 10), ('lengyel', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('kínai', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('meg.', 5), ('Filippov', 5), ('Putyin', 5), ('Huawei', 5), ('lengyelországi', 5), ('Egy', 4), ('lista', 4)]
+input sentence
+közös magyar lengyel ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán kínai MSZP-s parlamenti Magyarországon meg. Filippov Putyin Huawei lengyelországi Egy lista
+negative probability
+0.8217115189810696
+positive probalitiy
+0.1782884810189295
+sentiment
+negative
+01-11  13:49
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:50
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:51
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:52
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:53
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:54
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:55
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:56
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:57
+
+
+[('közös', 11), ('magyar', 10), ('ellenzéki', 9), ('ellenzék', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('nyugdíjak', 7), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('Orbán', 6), ('MSZP-s', 5), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('Egy', 4), ('lista', 4), ('tábor,', 4), ('nagyjából', 4), ('Fidesz', 4), ('ma', 4)]
+input sentence
+közös magyar ellenzéki ellenzék független orosz éves nyugdíjak politikai százaléknyi sajtó Magyar Orbán MSZP-s parlamenti Magyarországon Filippov Putyin hol Egy lista tábor, nagyjából Fidesz ma
+negative probability
+0.804222248282694
+positive probalitiy
+0.19577775171730685
+sentiment
+negative
+01-11  13:58
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  13:59
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:00
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:01
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:02
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:03
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:04
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:05
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:06
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:07
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:08
+
+
+[('közös', 12), ('magyar', 10), ('ellenzéki', 9), ('nyugdíjak', 8), ('ellenzék', 7), ('ma', 7), ('független', 7), ('orosz', 7), ('éves', 7), ('MSZP-s', 6), ('Egy', 6), ('politikai', 6), ('százaléknyi', 6), ('sajtó', 6), ('Magyar', 6), ('meg.', 6), ('Orbán', 6), ('parlamenti', 5), ('Magyarországon', 5), ('Filippov', 5), ('Putyin', 5), ('hol', 5), ('érkezett', 5), ('január', 5), ('lista', 4)]
+input sentence
+közös magyar ellenzéki nyugdíjak ellenzék ma független orosz éves MSZP-s Egy politikai százaléknyi sajtó Magyar meg. Orbán parlamenti Magyarországon Filippov Putyin hol érkezett január lista
+negative probability
+0.7470870316042956
+positive probalitiy
+0.25291296839570593
+sentiment
+negative
+01-11  14:09
+
+
+[('román', 9), ('nyugdíjak', 8), ('éves', 6), ('OLED', 5), ('érkezett', 5), ('meg.', 5), ('január', 5), ('ma', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pénteken', 4), ('Magyar', 4), ('írta,', 4), ('pápa', 4), ('olvasónk', 4), ('lesz,', 3), ('felbontás', 3), ('adta', 3), ('európai', 3), ('gyártó', 3), ('pont', 3), ('például', 3), ('jön', 3), ('3', 3)]
+input sentence
+román nyugdíjak éves OLED érkezett meg. január ma Samsung 4K, 8K pénteken Magyar írta, pápa olvasónk lesz, felbontás adta európai gyártó pont például jön 3
+negative probability
+0.577753977409093
+positive probalitiy
+0.4222460225909085
+sentiment
+negative
+01-11  15:14
+
+
+[('román', 9), ('nyugdíjak', 8), ('éves', 6), ('OLED', 5), ('érkezett', 5), ('meg.', 5), ('január', 5), ('ma', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pénteken', 4), ('Magyar', 4), ('írta,', 4), ('pápa', 4), ('olvasónk', 4), ('lesz,', 3), ('felbontás', 3), ('adta', 3), ('európai', 3), ('gyártó', 3), ('pont', 3), ('például', 3), ('jön', 3), ('3', 3)]
+input sentence
+román nyugdíjak éves OLED érkezett meg. január ma Samsung 4K, 8K pénteken Magyar írta, pápa olvasónk lesz, felbontás adta európai gyártó pont például jön 3
+negative probability
+0.577753977409093
+positive probalitiy
+0.4222460225909085
+sentiment
+negative
+01-11  15:15
+
+
+[('magyar', 140), ('OLED', 110), ('lesz,', 106), ('csapat', 100), ('Samsung', 88), ('4K,', 88), ('8K', 88), ('pápa', 88), ('pont', 86), ('jön', 86), ('ki,', 84), ('négy', 84), ('éve', 84), ('olimpiai', 80), ('nyolc', 80), ('román', 78), ('felbontás', 66), ('gyártó', 66), ('például', 66), ('LG', 66), ('hol', 66), ('kicsit', 64), ('ő', 64), ('Aztán', 64), ('tíz', 64)]
+input sentence
+magyar OLED lesz, csapat Samsung 4K, 8K pápa pont jön ki, négy éve olimpiai nyolc román felbontás gyártó például LG hol kicsit ő Aztán tíz
+negative probability
+0.27591482030386333
+positive probalitiy
+0.7240851796961381
+sentiment
+positive
+01-11  15:42
+
+
+[('magyar', 7), ('lesz,', 5), ('OLED', 5), ('csapat', 5), ('Samsung', 4), ('4K,', 4), ('ki,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('tíz', 3), ('LG', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar lesz, OLED csapat Samsung 4K, ki, 8K pont jön négy éve pápa olimpiai nyolc felbontás kicsit gyártó például ő Aztán tíz LG közölte román
+negative probability
+0.30188756077562495
+positive probalitiy
+0.6981124392243754
+sentiment
+positive
+01-11  15:42
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:26
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:26
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:26
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:27
+
+
+[('magyar', 12), ('OLED', 10), ('4K,', 8), ('pont', 8), ('jön', 8), ('négy', 8), ('olimpiai', 8), ('nyolc', 8), ('csapat', 8), ('Samsung', 7), ('8K', 7), ('éve', 7), ('pápa', 7), ('lesz,', 6), ('felbontás', 6), ('ki,', 6), ('kicsit', 6), ('például', 6), ('ő', 6), ('Aztán', 6), ('közölte', 6), ('román', 6), ('negyedik', 6), ('dánok', 6), ('válogatott', 6)]
+input sentence
+magyar OLED 4K, pont jön négy olimpiai nyolc csapat Samsung 8K éve pápa lesz, felbontás ki, kicsit például ő Aztán közölte román negyedik dánok válogatott
+negative probability
+0.2216429136625018
+positive probalitiy
+0.7783570863374984
+sentiment
+positive
+01-11  16:27
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:28
+
+
+[('magyar', 12), ('OLED', 10), ('4K,', 8), ('pont', 8), ('jön', 8), ('négy', 8), ('olimpiai', 8), ('nyolc', 8), ('csapat', 8), ('Samsung', 7), ('8K', 7), ('éve', 7), ('pápa', 7), ('lesz,', 6), ('felbontás', 6), ('ki,', 6), ('kicsit', 6), ('például', 6), ('ő', 6), ('Aztán', 6), ('román', 6), ('negyedik', 6), ('dánok', 6), ('válogatott', 6), ('gyártó', 5)]
+input sentence
+magyar OLED 4K, pont jön négy olimpiai nyolc csapat Samsung 8K éve pápa lesz, felbontás ki, kicsit például ő Aztán román negyedik dánok válogatott gyártó
+negative probability
+0.2020066057394909
+positive probalitiy
+0.7979933942605089
+sentiment
+positive
+01-11  16:29
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:31
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:35
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:37
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:41
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:49
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  16:50
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  17:10
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  17:11
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('ki,', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás ki, kicsit gyártó például ő Aztán LG fekete közölte román
+negative probability
+0.26129307202243424
+positive probalitiy
+0.7387069279775652
+sentiment
+positive
+01-11  17:12
+
+
+[('OLED', 10), ('4K,', 8), ('Samsung', 7), ('8K', 7), ('pont', 7), ('felbontás', 6), ('jön', 6), ('négy', 6), ('magyar', 6), ('lesz,', 5), ('ki,', 5), ('kicsit', 5), ('gyártó', 5), ('például', 5), ('ő', 5), ('Aztán', 5), ('éve', 5), ('LG', 5), ('pár', 4), ('éven', 4), ('egyébként', 4), ('8K,', 4), ('szépen', 4), ('képminőség', 4), ('kisebb', 4)]
+input sentence
+OLED 4K, Samsung 8K pont felbontás jön négy magyar lesz, ki, kicsit gyártó például ő Aztán éve LG pár éven egyébként 8K, szépen képminőség kisebb
+negative probability
+0.38902637894001774
+positive probalitiy
+0.6109736210599819
+sentiment
+positive
+01-11  17:13
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('ő', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3), ('kormány', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás kicsit gyártó például ő Aztán LG fekete közölte román kormány
+negative probability
+0.2776566938477422
+positive probalitiy
+0.7223433061522587
+sentiment
+positive
+01-11  17:14
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('pápa', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('Aztán', 3), ('LG', 3), ('fekete', 3), ('közölte', 3), ('román', 3), ('kormány', 3), ('tranzakciós', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve pápa olimpiai nyolc csapat lesz, felbontás kicsit gyártó például Aztán LG fekete közölte román kormány tranzakciós
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:16
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('Aztán', 3), ('inkább', 3), ('LG', 3), ('fekete', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve olimpiai nyolc csapat lesz, felbontás kicsit gyártó például Aztán inkább LG fekete László '56-os Schmidt Máriáék
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:17
+
+
+[('OLED', 10), ('4K,', 8), ('Samsung', 7), ('8K', 7), ('pont', 7), ('felbontás', 6), ('jön', 6), ('négy', 6), ("'56-os", 6), ('magyar', 6), ('lesz,', 5), ('kicsit', 5), ('gyártó', 5), ('például', 5), ('Aztán', 5), ('inkább', 5), ('éve', 5), ('LG', 5), ('László', 5), ('Schmidt', 5), ('Máriáék', 5), ('Nagy', 5), ('56-os', 5), ('Dózsa', 5), ('pár', 4)]
+input sentence
+OLED 4K, Samsung 8K pont felbontás jön négy '56-os magyar lesz, kicsit gyártó például Aztán inkább éve LG László Schmidt Máriáék Nagy 56-os Dózsa pár
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:18
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('Aztán', 3), ('inkább', 3), ('LG', 3), ('fekete', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve olimpiai nyolc csapat lesz, felbontás kicsit gyártó például Aztán inkább LG fekete László '56-os Schmidt Máriáék
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:18
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('Aztán', 3), ('inkább', 3), ('LG', 3), ('fekete', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve olimpiai nyolc csapat lesz, felbontás kicsit gyártó például Aztán inkább LG fekete László '56-os Schmidt Máriáék
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:19
+
+
+[('OLED', 10), ('4K,', 8), ('Samsung', 7), ('8K', 7), ('pont', 7), ('felbontás', 6), ('jön', 6), ('négy', 6), ("'56-os", 6), ('magyar', 6), ('lesz,', 5), ('kicsit', 5), ('gyártó', 5), ('például', 5), ('Aztán', 5), ('inkább', 5), ('éve', 5), ('LG', 5), ('László', 5), ('Schmidt', 5), ('Máriáék', 5), ('Nagy', 5), ('56-os', 5), ('Dózsa', 5), ('pár', 4)]
+input sentence
+OLED 4K, Samsung 8K pont felbontás jön négy '56-os magyar lesz, kicsit gyártó például Aztán inkább éve LG László Schmidt Máriáék Nagy 56-os Dózsa pár
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:20
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('Aztán', 3), ('inkább', 3), ('LG', 3), ('fekete', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve olimpiai nyolc csapat lesz, felbontás kicsit gyártó például Aztán inkább LG fekete László '56-os Schmidt Máriáék
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:21
+
+
+[('magyar', 12), ('OLED', 10), ('4K,', 8), ('pont', 8), ('jön', 8), ('négy', 8), ('olimpiai', 8), ('nyolc', 8), ('csapat', 8), ('Samsung', 7), ('8K', 7), ('éve', 7), ('lesz,', 6), ('felbontás', 6), ('kicsit', 6), ('például', 6), ('Aztán', 6), ('inkább', 6), ('László', 6), ("'56-os", 6), ('Nagy', 6), ('negyedik', 6), ('dánok', 6), ('válogatott', 6), ('gyártó', 5)]
+input sentence
+magyar OLED 4K, pont jön négy olimpiai nyolc csapat Samsung 8K éve lesz, felbontás kicsit például Aztán inkább László '56-os Nagy negyedik dánok válogatott gyártó
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:21
+
+
+[('magyar', 6), ('OLED', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('jön', 4), ('négy', 4), ('éve', 4), ('olimpiai', 4), ('nyolc', 4), ('csapat', 4), ('lesz,', 3), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('Aztán', 3), ('inkább', 3), ('LG', 3), ('fekete', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3)]
+input sentence
+magyar OLED Samsung 4K, 8K pont jön négy éve olimpiai nyolc csapat lesz, felbontás kicsit gyártó például Aztán inkább LG fekete László '56-os Schmidt Máriáék
+negative probability
+0.3291862491902738
+positive probalitiy
+0.6708137508097254
+sentiment
+positive
+01-11  17:36
+
+
+[('magyar', 10), ('H.', 6), ('lesz,', 5), ('OLED', 5), ('csapat', 5), ('Samsung', 4), ('4K,', 4), ('8K', 4), ('pont', 4), ('négy', 4), ('éve', 4), ('Ahmed', 4), ('január', 4), ('olimpiai', 4), ('nyolc', 4), ('felbontás', 3), ('kicsit', 3), ('gyártó', 3), ('például', 3), ('jön', 3), ('Aztán', 3), ('inkább', 3), ('tíz', 3), ('LG', 3), ('szabadlábra', 3)]
+input sentence
+magyar H. lesz, OLED csapat Samsung 4K, 8K pont négy éve Ahmed január olimpiai nyolc felbontás kicsit gyártó például jön Aztán inkább tíz LG szabadlábra
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  17:51
+
+
+[('magyar', 7), ('H.', 6), ('OLED', 5), ('Nagy', 4), ('Ahmed', 4), ('lesz,', 4), ('4K,', 4), ('csapat', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('forint', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('Viktor', 3), ('56-os', 3), ('Dózsa', 3), ('kormány', 3), ('tranzakciós', 3), ('felbontás', 3), ('Samsung', 3), ('8K', 3), ('pont', 3)]
+input sentence
+magyar H. OLED Nagy Ahmed lesz, 4K, csapat január szabadlábra férfit forint László '56-os Schmidt Máriáék Viktor 56-os Dózsa kormány tranzakciós felbontás Samsung 8K pont
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  18:06
+
+
+[('magyar', 6), ('H.', 6), ('OLED', 5), ('Nagy', 4), ('Ahmed', 4), ('lesz,', 4), ('4K,', 4), ('Bodó', 3), ('kisebb', 3), ('négy', 3), ('tíz', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('forint', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('56-os', 3), ('Dózsa', 3), ('kormány', 3), ('tranzakciós', 3), ('felbontás', 3), ('Samsung', 3)]
+input sentence
+magyar H. OLED Nagy Ahmed lesz, 4K, Bodó kisebb négy tíz január szabadlábra férfit forint László '56-os Schmidt Máriáék 56-os Dózsa kormány tranzakciós felbontás Samsung
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  18:20
+
+
+[('H.', 6), ('magyar', 5), ('OLED', 5), ('Ahmed', 4), ('lesz,', 4), ('4K,', 4), ('helyett', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('forint', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('Viktor', 3), ('Nagy', 3), ('56-os', 3), ('Dózsa', 3), ('kormány', 3), ('tranzakciós', 3), ('felbontás', 3), ('Samsung', 3), ('8K', 3), ('pont', 3)]
+input sentence
+H. magyar OLED Ahmed lesz, 4K, helyett január szabadlábra férfit forint László '56-os Schmidt Máriáék Viktor Nagy 56-os Dózsa kormány tranzakciós felbontás Samsung 8K pont
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  18:35
+
+
+[('H.', 6), ('magyar', 5), ('OLED', 5), ('ment', 4), ('Ahmed', 4), ('lesz,', 4), ('4K,', 4), ('tíz', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('forint', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('Nagy', 3), ('56-os', 3), ('Dózsa', 3), ('kormány', 3), ('tranzakciós', 3), ('felbontás', 3), ('Samsung', 3), ('8K', 3), ('pont', 3)]
+input sentence
+H. magyar OLED ment Ahmed lesz, 4K, tíz január szabadlábra férfit forint László '56-os Schmidt Máriáék Nagy 56-os Dózsa kormány tranzakciós felbontás Samsung 8K pont
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  18:50
+
+
+[('magyar', 7), ('H.', 6), ('második', 5), ('lesz,', 5), ('OLED', 5), ('ment', 4), ('Ahmed', 4), ('4K,', 4), ('első', 3), ('félidő', 3), ('Nagy', 3), ('argentinok', 3), ('például', 3), ('tíz', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('forint', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('56-os', 3), ('Dózsa', 3), ('Bocuse', 3), ('felbontás', 3)]
+input sentence
+magyar H. második lesz, OLED ment Ahmed 4K, első félidő Nagy argentinok például tíz január szabadlábra férfit forint '56-os Schmidt Máriáék 56-os Dózsa Bocuse felbontás
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  19:05
+
+
+[('magyar', 7), ('H.', 6), ('OLED', 5), ('Ahmed', 4), ('lesz,', 4), ('4K,', 4), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('forint', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('56-os', 3), ('Dózsa', 3), ('Bocuse', 3), ('felbontás', 3), ('Samsung', 3), ('8K', 3), ('pont', 3), ('védekezésben', 2), ('első', 2), ('második', 2), ('félidő', 2), ('szír', 2)]
+input sentence
+magyar H. OLED Ahmed lesz, 4K, január szabadlábra férfit forint '56-os Schmidt Máriáék 56-os Dózsa Bocuse felbontás Samsung 8K pont védekezésben első második félidő szír
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  19:20
+
+
+[('magyar', 8), ('H.', 6), ('OLED', 5), ('Nagy', 4), ('Ahmed', 4), ('4K,', 4), ('tíz', 3), ('Mikler', 3), ('védett', 3), ('helyett', 3), ('30', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('Viktor', 3), ('56-os', 3), ('Dózsa', 3), ('Bocuse', 3), ('lesz,', 3), ('felbontás', 3), ('Samsung', 3)]
+input sentence
+magyar H. OLED Nagy Ahmed 4K, tíz Mikler védett helyett 30 január szabadlábra férfit László '56-os Schmidt Máriáék Viktor 56-os Dózsa Bocuse lesz, felbontás Samsung
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  19:35
+
+
+[('magyar', 8), ('H.', 6), ('OLED', 5), ('Nagy', 4), ('Ahmed', 4), ('4K,', 4), ('tíz', 3), ('Mikler', 3), ('védett', 3), ('helyett', 3), ('30', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('Viktor', 3), ('56-os', 3), ('Dózsa', 3), ('Bocuse', 3), ('lesz,', 3), ('felbontás', 3), ('Samsung', 3)]
+input sentence
+magyar H. OLED Nagy Ahmed 4K, tíz Mikler védett helyett 30 január szabadlábra férfit László '56-os Schmidt Máriáék Viktor 56-os Dózsa Bocuse lesz, felbontás Samsung
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  19:50
+
+
+[('H.', 6), ('magyar', 6), ('OLED', 5), ('Ahmed', 4), ('4K,', 4), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('László', 3), ("'56-os", 3), ('Schmidt', 3), ('Máriáék', 3), ('Viktor', 3), ('Nagy', 3), ('56-os', 3), ('Dózsa', 3), ('Bocuse', 3), ('lesz,', 3), ('felbontás', 3), ('Samsung', 3), ('8K', 3), ('pont', 3), ('jön', 3), ('(ez', 3), ('Nemzeti', 3)]
+input sentence
+H. magyar OLED Ahmed 4K, január szabadlábra férfit László '56-os Schmidt Máriáék Viktor Nagy 56-os Dózsa Bocuse lesz, felbontás Samsung 8K pont jön (ez Nemzeti
+negative probability
+0.3054492386479502
+positive probalitiy
+0.6945507613520495
+sentiment
+positive
+01-11  20:05
+
+
+[('magyar', 8), ('szíriai', 7), ('H.', 6), ('kurdok', 6), ('Nemzeti', 6), ('Törökország', 5), ('amerikai', 5), ('Nagy', 4), ('30', 4), ('szír', 4), ('Ahmed', 4), ('ellenzéki', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('török', 4), ('Mikler', 3), ('védett', 3), ('lévő', 3), ('tudta', 3), ('január', 3), ('szabadlábra', 3), ('férfit', 3), ('érdekében', 3)]
+input sentence
+magyar szíriai H. kurdok Nemzeti Törökország amerikai Nagy 30 szír Ahmed ellenzéki található Idlib koalíció Tahrir török Mikler védett lévő tudta január szabadlábra férfit érdekében
+negative probability
+0.7731387255626595
+positive probalitiy
+0.22686127443734108
+sentiment
+negative
+01-11  20:20
+
+
+[('szíriai', 7), ('magyar', 6), ('H.', 6), ('kurdok', 6), ('Nemzeti', 6), ('Törökország', 5), ('amerikai', 5), ('30', 4), ('szír', 4), ('Ahmed', 4), ('ellenzéki', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('török', 4), ('Mikler', 3), ('védett', 3), ('Nagy', 3), ('helyett', 3), ('lévő', 3), ('tudta', 3), ('szabadlábra', 3), ('férfit', 3), ('érdekében', 3)]
+input sentence
+szíriai magyar H. kurdok Nemzeti Törökország amerikai 30 szír Ahmed ellenzéki található Idlib koalíció Tahrir török Mikler védett Nagy helyett lévő tudta szabadlábra férfit érdekében
+negative probability
+0.7812723714048856
+positive probalitiy
+0.21872762859511555
+sentiment
+negative
+01-11  20:35
+
+
+[('szíriai', 7), ('magyar', 6), ('H.', 6), ('kurdok', 6), ('Nemzeti', 6), ('Törökország', 5), ('amerikai', 5), ('30', 4), ('szír', 4), ('Ahmed', 4), ('ellenzéki', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('török', 4), ('Mikler', 3), ('védett', 3), ('Nagy', 3), ('helyett', 3), ('lévő', 3), ('tudta', 3), ('szabadlábra', 3), ('férfit', 3), ('érdekében', 3)]
+input sentence
+szíriai magyar H. kurdok Nemzeti Törökország amerikai 30 szír Ahmed ellenzéki található Idlib koalíció Tahrir török Mikler védett Nagy helyett lévő tudta szabadlábra férfit érdekében
+negative probability
+0.7812723714048856
+positive probalitiy
+0.21872762859511555
+sentiment
+negative
+01-11  20:50
+
+
+[('magyar', 9), ('szíriai', 7), ('H.', 6), ('kurdok', 6), ('Nemzeti', 6), ('Balogh', 5), ('Törökország', 5), ('amerikai', 5), ('Nagy', 4), ('első', 4), ('perc', 4), ('gyors', 4), ('gólt', 4), ('Lékai', 4), ('Ennek', 4), ('szír', 4), ('Ahmed', 4), ('ellenzéki', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('török', 4), ('pénteken', 4), ('Argentína', 3)]
+input sentence
+magyar szíriai H. kurdok Nemzeti Balogh Törökország amerikai Nagy első perc gyors gólt Lékai Ennek szír Ahmed ellenzéki található Idlib koalíció Tahrir török pénteken Argentína
+negative probability
+0.661592242175844
+positive probalitiy
+0.33840775782415666
+sentiment
+negative
+01-11  21:04
+
+
+[('magyar', 9), ('szíriai', 7), ('H.', 6), ('kurdok', 6), ('Nemzeti', 6), ('Balogh', 5), ('Törökország', 5), ('amerikai', 5), ('Nagy', 4), ('első', 4), ('perc', 4), ('gyors', 4), ('gólt', 4), ('Lékai', 4), ('Ennek', 4), ('szír', 4), ('Ahmed', 4), ('ellenzéki', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('török', 4), ('pénteken', 4), ('Argentína', 3)]
+input sentence
+magyar szíriai H. kurdok Nemzeti Balogh Törökország amerikai Nagy első perc gyors gólt Lékai Ennek szír Ahmed ellenzéki található Idlib koalíció Tahrir török pénteken Argentína
+negative probability
+0.661592242175844
+positive probalitiy
+0.33840775782415666
+sentiment
+negative
+01-11  21:19
+
+
+[('magyar', 8), ('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('este', 5), ('Balogh', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('Ennek', 4), ('török', 4), ('szír', 4), ('gyors', 4), ('Ahmed', 4), ('gólt', 4), ('Lékai', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3)]
+input sentence
+magyar szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország este Balogh ország található Idlib koalíció Tahrir Ennek török szír gyors Ahmed gólt Lékai terület al-Káida an-Núszra
+negative probability
+0.6677280849457262
+positive probalitiy
+0.3322719150542766
+sentiment
+negative
+01-11  21:34
+
+
+[('magyar', 9), ('szíriai', 7), ('kurdok', 6), ('Nemzeti', 6), ('amerikai', 6), ('H.', 6), ('Törökország', 5), ('este', 5), ('Balogh', 5), ('ellenzéki', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('Ennek', 4), ('török', 4), ('szír', 4), ('kormány', 4), ('pénteken', 4), ('gyors', 4), ('Ahmed', 4), ('Nagy', 4), ('gólt', 4), ('Lékai', 4), ('terület', 3)]
+input sentence
+magyar szíriai kurdok Nemzeti amerikai H. Törökország este Balogh ellenzéki található Idlib koalíció Tahrir Ennek török szír kormány pénteken gyors Ahmed Nagy gólt Lékai terület
+negative probability
+0.6660697860866763
+positive probalitiy
+0.33393021391332045
+sentiment
+negative
+01-11  21:49
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  22:04
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  22:19
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  22:34
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  22:49
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  23:04
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  23:19
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  23:34
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-11  23:49
+
+
+[('szíriai', 7), ('Nemzeti', 7), ('kurdok', 6), ('amerikai', 6), ('H.', 6), ('ellenzéki', 5), ('Törökország', 5), ('ország', 4), ('található', 4), ('Idlib', 4), ('koalíció', 4), ('Tahrir', 4), ('például', 4), ('török', 4), ('szír', 4), ('este', 4), ('Ahmed', 4), ('magyar', 4), ('terület', 3), ('al-Káida', 3), ('an-Núszra', 3), ('Front', 3), ('30', 3), ('legnagyobb', 3), ('inkább', 3)]
+input sentence
+szíriai Nemzeti kurdok amerikai H. ellenzéki Törökország ország található Idlib koalíció Tahrir például török szír este Ahmed magyar terület al-Káida an-Núszra Front 30 legnagyobb inkább
+negative probability
+0.6972639873606649
+positive probalitiy
+0.30273601263933503
+sentiment
+negative
+01-12  00:03
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  00:18
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  00:33
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  00:48
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  01:03
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  01:18
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  01:33
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  01:48
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  02:03
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  02:18
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  02:32
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  02:47
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  03:02
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  03:17
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  03:32
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  03:47
+
+
+[('magyar', 13), ('év', 6), ('H.', 6), ('kedvenc', 5), ('lemez', 5), ('óta', 5), ('simán', 4), ('első', 4), ('tökéletes', 4), ('ország', 4), ('igazán', 4), ('legnagyobb', 4), ('2018', 4), ('érdemes', 4), ('ideje', 4), ('2018-ban', 4), ('egészen', 4), ('szép', 4), ('később', 4), ('összes', 4), ('este', 4), ('Ahmed', 4), ('Nemzeti', 4), ('hazai', 3), ('korábbi', 3)]
+input sentence
+magyar év H. kedvenc lemez óta simán első tökéletes ország igazán legnagyobb 2018 érdemes ideje 2018-ban egészen szép később összes este Ahmed Nemzeti hazai korábbi
+negative probability
+0.20903175441222852
+positive probalitiy
+0.7909682455877711
+sentiment
+positive
+01-12  04:02
+
+
+[('magyar', 16), ('ma', 10), ('gyulai', 8), ('családi', 8), ('óta', 7), ('első', 7), ('például', 7), ('Trump', 7), ('év', 6), ('H.', 6), ('során', 6), ('kedvenc', 5), ('korábbi', 5), ('lemez', 5), ('ország', 5), ('2018', 5), ('ideje', 5), ('korábban', 5), ('este', 5), ('millió', 5), ('cég', 5), ('állami', 5), ('részben', 5), ('Momentum', 5), ('Donald', 5)]
+input sentence
+magyar ma gyulai családi óta első például Trump év H. során kedvenc korábbi lemez ország 2018 ideje korábban este millió cég állami részben Momentum Donald
+negative probability
+0.6384528233387162
+positive probalitiy
+0.3615471766612835
+sentiment
+negative
+01-12  13:51
+
+
+[('ma', 9), ('gyulai', 8), ('családi', 8), ('Trump', 7), ('állami', 5), ('részben', 5), ('például', 5), ('során', 5), ('Momentum', 5), ('Donald', 5), ('milliárd', 4), ('cég', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('idején', 3), ('ablakok', 3), ('fő', 3), ('anyag', 3), ('15', 3), ('orosz', 3), ('nincsen', 3)]
+input sentence
+ma gyulai családi Trump állami részben például során Momentum Donald milliárd cég millió generáció családtagok húsipari százalékos gyártás idején ablakok fő anyag 15 orosz nincsen
+negative probability
+0.7951790240977131
+positive probalitiy
+0.20482097590228518
+sentiment
+negative
+01-12  14:06
+
+
+[('ma', 9), ('gyulai', 8), ('családi', 8), ('Trump', 7), ('állami', 5), ('részben', 5), ('például', 5), ('során', 5), ('Momentum', 5), ('Donald', 5), ('milliárd', 4), ('cég', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('idején', 3), ('ablakok', 3), ('fő', 3), ('anyag', 3), ('15', 3), ('kiló', 3), ('orosz', 3)]
+input sentence
+ma gyulai családi Trump állami részben például során Momentum Donald milliárd cég millió generáció családtagok húsipari százalékos gyártás idején ablakok fő anyag 15 kiló orosz
+negative probability
+0.7807030842617606
+positive probalitiy
+0.219296915738238
+sentiment
+negative
+01-12  14:21
+
+
+[('ma', 9), ('gyulai', 8), ('családi', 8), ('Trump', 7), ('állami', 5), ('részben', 5), ('például', 5), ('során', 5), ('Momentum', 5), ('Donald', 5), ('milliárd', 4), ('cég', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('korábban', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('idején', 3), ('ablakok', 3), ('négy', 3), ('fő', 3), ('anyag', 3), ('15', 3)]
+input sentence
+ma gyulai családi Trump állami részben például során Momentum Donald milliárd cég millió generáció családtagok korábban húsipari százalékos gyártás idején ablakok négy fő anyag 15
+negative probability
+0.7784520470328751
+positive probalitiy
+0.2215479529671246
+sentiment
+negative
+01-12  14:35
+
+
+[('ma', 9), ('gyulai', 8), ('családi', 8), ('Trump', 7), ('állami', 5), ('részben', 5), ('például', 5), ('során', 5), ('Momentum', 5), ('Donald', 5), ('milliárd', 4), ('cég', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('korábban', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('idején', 3), ('ablakok', 3), ('négy', 3), ('fő', 3), ('anyag', 3), ('15', 3)]
+input sentence
+ma gyulai családi Trump állami részben például során Momentum Donald milliárd cég millió generáció családtagok korábban húsipari százalékos gyártás idején ablakok négy fő anyag 15
+negative probability
+0.7784520470328751
+positive probalitiy
+0.2215479529671246
+sentiment
+negative
+01-12  14:50
+
+
+[('ma', 9), ('gyulai', 8), ('családi', 8), ('Trump', 7), ('állami', 5), ('részben', 5), ('például', 5), ('során', 5), ('Momentum', 5), ('Donald', 5), ('milliárd', 4), ('cég', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('korábban', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('idején', 3), ('ablakok', 3), ('négy', 3), ('fő', 3), ('anyag', 3), ('15', 3)]
+input sentence
+ma gyulai családi Trump állami részben például során Momentum Donald milliárd cég millió generáció családtagok korábban húsipari százalékos gyártás idején ablakok négy fő anyag 15
+negative probability
+0.7784520470328751
+positive probalitiy
+0.2215479529671246
+sentiment
+negative
+01-12  15:05
+
+
+[('ma', 9), ('családi', 8), ('gyulai', 7), ('Momentum', 5), ('állami', 5), ('részben', 5), ('például', 5), ('fő', 4), ('millió', 4), ('milliárd', 4), ('cég', 4), ('generáció', 4), ('családtagok', 4), ('elektromos', 3), ('óta', 3), ('helyettes', 3), ('első', 3), ('Párbeszéd', 3), ('szóló', 3), ('15', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('ablakok', 3), ('során', 3)]
+input sentence
+ma családi gyulai Momentum állami részben például fő millió milliárd cég generáció családtagok elektromos óta helyettes első Párbeszéd szóló 15 húsipari százalékos gyártás ablakok során
+negative probability
+0.7602948365080263
+positive probalitiy
+0.23970516349197166
+sentiment
+negative
+01-12  15:20
+
+
+[('ma', 9), ('családi', 8), ('gyulai', 7), ('Momentum', 5), ('állami', 5), ('részben', 5), ('például', 5), ('fő', 4), ('millió', 4), ('milliárd', 4), ('cég', 4), ('generáció', 4), ('családtagok', 4), ('elektromos', 3), ('óta', 3), ('helyettes', 3), ('első', 3), ('Párbeszéd', 3), ('szóló', 3), ('15', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('ablakok', 3), ('során', 3)]
+input sentence
+ma családi gyulai Momentum állami részben például fő millió milliárd cég generáció családtagok elektromos óta helyettes első Párbeszéd szóló 15 húsipari százalékos gyártás ablakok során
+negative probability
+0.7602948365080263
+positive probalitiy
+0.23970516349197166
+sentiment
+negative
+01-12  15:35
+
+
+[('ma', 9), ('családi', 8), ('gyulai', 7), ('Momentum', 5), ('állami', 5), ('részben', 5), ('például', 5), ('fő', 4), ('millió', 4), ('milliárd', 4), ('cég', 4), ('generáció', 4), ('családtagok', 4), ('elektromos', 3), ('óta', 3), ('helyettes', 3), ('első', 3), ('Párbeszéd', 3), ('szóló', 3), ('15', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('ablakok', 3), ('során', 3)]
+input sentence
+ma családi gyulai Momentum állami részben például fő millió milliárd cég generáció családtagok elektromos óta helyettes első Párbeszéd szóló 15 húsipari százalékos gyártás ablakok során
+negative probability
+0.7602948365080263
+positive probalitiy
+0.23970516349197166
+sentiment
+negative
+01-12  15:50
+
+
+[('ma', 9), ('lengyel', 8), ('családi', 8), ('gyulai', 7), ('Trump', 6), ('cég', 5), ('részben', 5), ('például', 5), ('során', 5), ('fő', 4), ('kínai', 4), ('állami', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('Momentum', 4), ('Donald', 4), ('elektromos', 3), ('Huawei', 3), ('vettek', 3), ('őrizetbe', 3), ('korábban', 3), ('helyettes', 3), ('első', 3), ('milliárd', 3)]
+input sentence
+ma lengyel családi gyulai Trump cég részben például során fő kínai állami millió generáció családtagok Momentum Donald elektromos Huawei vettek őrizetbe korábban helyettes első milliárd
+negative probability
+0.8971063558371922
+positive probalitiy
+0.10289364416280578
+sentiment
+negative
+01-12  16:05
+
+
+[('ma', 9), ('lengyel', 8), ('családi', 8), ('gyulai', 7), ('cég', 5), ('részben', 5), ('például', 5), ('fő', 4), ('kínai', 4), ('állami', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('Momentum', 4), ('elektromos', 3), ('Huawei', 3), ('vettek', 3), ('őrizetbe', 3), ('helyettes', 3), ('első', 3), ('milliárd', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3), ('ablakok', 3)]
+input sentence
+ma lengyel családi gyulai cég részben például fő kínai állami millió generáció családtagok Momentum elektromos Huawei vettek őrizetbe helyettes első milliárd húsipari százalékos gyártás ablakok
+negative probability
+0.885029908581298
+positive probalitiy
+0.11497009141869965
+sentiment
+negative
+01-12  16:20
+
+
+[('ma', 9), ('családi', 8), ('lengyel', 7), ('gyulai', 6), ('cég', 5), ('részben', 5), ('például', 5), ('fő', 4), ('kínai', 4), ('állami', 4), ('millió', 4), ('generáció', 4), ('családtagok', 4), ('Momentum', 4), ('elektromos', 3), ('Nem', 3), ('helyettes', 3), ('első', 3), ('Huawei', 3), ('vettek', 3), ('őrizetbe', 3), ('milliárd', 3), ('húsipari', 3), ('százalékos', 3), ('gyártás', 3)]
+input sentence
+ma családi lengyel gyulai cég részben például fő kínai állami millió generáció családtagok Momentum elektromos Nem helyettes első Huawei vettek őrizetbe milliárd húsipari százalékos gyártás
+negative probability
+0.9087689461776253
+positive probalitiy
+0.09123105382237827
+sentiment
+negative
+01-12  16:35
+
+
+[('ma', 9), ('gyulai', 7), ('részben', 5), ('például', 5), ('állami', 4), ('Momentum', 4), ('elektromos', 3), ('Nem', 3), ('fő', 3), ('helyettes', 3), ('húsipari', 3), ('gyártás', 3), ('ablakok', 3), ('során', 3), ('anyag', 3), ('15', 3), ('kiló', 3), ('millió', 3), ('nincsen', 3), ('szóló', 3), ('igazán', 2), ('óta', 2), ('nyugdíjak', 2), ('postai', 2), ('szerdán', 2)]
+input sentence
+ma gyulai részben például állami Momentum elektromos Nem fő helyettes húsipari gyártás ablakok során anyag 15 kiló millió nincsen szóló igazán óta nyugdíjak postai szerdán
+negative probability
+0.7470046731586839
+positive probalitiy
+0.252995326841313
+sentiment
+negative
+01-12  16:50
+
+
+[('ma', 9), ('gyulai', 8), ('Trump', 6), ('részben', 5), ('például', 5), ('során', 5), ('állami', 4), ('Momentum', 4), ('Donald', 4), ('elektromos', 3), ('fő', 3), ('korábban', 3), ('húsipari', 3), ('gyártás', 3), ('ablakok', 3), ('négy', 3), ('anyag', 3), ('15', 3), ('kiló', 3), ('orosz', 3), ('millió', 3), ('nincsen', 3), ('szóló', 3), ('lap', 3), ('Comey', 3)]
+input sentence
+ma gyulai Trump részben például során állami Momentum Donald elektromos fő korábban húsipari gyártás ablakok négy anyag 15 kiló orosz millió nincsen szóló lap Comey
+negative probability
+0.7853817991475034
+positive probalitiy
+0.2146182008524971
+sentiment
+negative
+01-12  17:04
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('Trump', 7), ('például', 6), ('részben', 6), ('gyulai', 6), ('norvég', 5), ('jön', 5), ('elleni', 5), ('során', 5), ('öt', 4), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('első', 4), ('Donald', 4), ('orosz', 4), ('lap', 4), ('Comey', 4), ('állami', 4)]
+input sentence
+Solskjaer ma Mourinho Trump például részben gyulai norvég jön elleni során öt Manchester United kezdett Ferguson négy csapat Sőt, első Donald orosz lap Comey állami
+negative probability
+0.66492884094828
+positive probalitiy
+0.3350711590517182
+sentiment
+negative
+01-12  17:19
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('Trump', 7), ('például', 6), ('részben', 6), ('gyulai', 6), ('norvég', 5), ('jön', 5), ('elleni', 5), ('során', 5), ('öt', 4), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('első', 4), ('Donald', 4), ('orosz', 4), ('lap', 4), ('Comey', 4), ('állami', 4)]
+input sentence
+Solskjaer ma Mourinho Trump például részben gyulai norvég jön elleni során öt Manchester United kezdett Ferguson négy csapat Sőt, első Donald orosz lap Comey állami
+negative probability
+0.66492884094828
+positive probalitiy
+0.3350711590517182
+sentiment
+negative
+01-12  17:34
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('Trump', 7), ('például', 6), ('részben', 6), ('gyulai', 6), ('norvég', 5), ('jön', 5), ('elleni', 5), ('során', 5), ('öt', 4), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('első', 4), ('Donald', 4), ('orosz', 4), ('lap', 4), ('Comey', 4), ('állami', 4)]
+input sentence
+Solskjaer ma Mourinho Trump például részben gyulai norvég jön elleni során öt Manchester United kezdett Ferguson négy csapat Sőt, első Donald orosz lap Comey állami
+negative probability
+0.66492884094828
+positive probalitiy
+0.3350711590517182
+sentiment
+negative
+01-12  17:49
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('Trump', 7), ('például', 6), ('részben', 6), ('gyulai', 6), ('norvég', 5), ('jön', 5), ('elleni', 5), ('során', 5), ('öt', 4), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('első', 4), ('Donald', 4), ('orosz', 4), ('lap', 4), ('Comey', 4), ('állami', 4)]
+input sentence
+Solskjaer ma Mourinho Trump például részben gyulai norvég jön elleni során öt Manchester United kezdett Ferguson négy csapat Sőt, első Donald orosz lap Comey állami
+negative probability
+0.66492884094828
+positive probalitiy
+0.3350711590517182
+sentiment
+negative
+01-12  18:04
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('Trump', 7), ('például', 6), ('részben', 6), ('gyulai', 6), ('norvég', 5), ('jön', 5), ('elleni', 5), ('során', 5), ('öt', 4), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('első', 4), ('Donald', 4), ('orosz', 4), ('lap', 4), ('Comey', 4), ('állami', 4)]
+input sentence
+Solskjaer ma Mourinho Trump például részben gyulai norvég jön elleni során öt Manchester United kezdett Ferguson négy csapat Sőt, első Donald orosz lap Comey állami
+negative probability
+0.66492884094828
+positive probalitiy
+0.3350711590517182
+sentiment
+negative
+01-12  18:19
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('Trump', 7), ('például', 6), ('részben', 6), ('gyulai', 6), ('norvég', 5), ('jön', 5), ('elleni', 5), ('során', 5), ('öt', 4), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('első', 4), ('Donald', 4), ('orosz', 4), ('lap', 4), ('Comey', 4), ('állami', 4)]
+input sentence
+Solskjaer ma Mourinho Trump például részben gyulai norvég jön elleni során öt Manchester United kezdett Ferguson négy csapat Sőt, első Donald orosz lap Comey állami
+negative probability
+0.66492884094828
+positive probalitiy
+0.3350711590517182
+sentiment
+negative
+01-12  18:34
+
+
+[('Solskjaer', 11), ('ma', 9), ('Mourinho', 7), ('például', 6), ('részben', 6), ('első', 6), ('gyulai', 6), ('öt', 5), ('norvég', 5), ('jön', 5), ('elleni', 5), ('Liu', 5), ('Manchester', 4), ('United', 4), ('kezdett', 4), ('Ferguson', 4), ('négy', 4), ('csapat', 4), ('Sőt,', 4), ('állami', 4), ('Momentum', 4), ('szerzett', 3), ('United,', 3), ('meccs', 3), ('morál', 3)]
+input sentence
+Solskjaer ma Mourinho például részben első gyulai öt norvég jön elleni Liu Manchester United kezdett Ferguson négy csapat Sőt, állami Momentum szerzett United, meccs morál
+negative probability
+0.5068902334042347
+positive probalitiy
+0.4931097665957661
+sentiment
+neutral
+01-12  18:49
+
+
+[('Solskjaer', 11), ('szezon', 8), ('Mourinho', 7), ('elleni', 7), ('első', 6), ('öt', 5), ('norvég', 5), ('csapat', 5), ('Liu', 5), ('Manchester', 4), ('United', 4), ('Ferguson', 4), ('négy', 4), ('meccsen', 4), ('szerzett', 3), ('United,', 3), ('meccs', 3), ('morál', 3), ('jobb', 3), ('portugál', 3), ('Rashford', 3), ('védekező', 3), ('támadó', 3), ('Alex', 3), ('Sőt,', 3)]
+input sentence
+Solskjaer szezon Mourinho elleni első öt norvég csapat Liu Manchester United Ferguson négy meccsen szerzett United, meccs morál jobb portugál Rashford védekező támadó Alex Sőt,
+negative probability
+0.48616714627563884
+positive probalitiy
+0.5138328537243607
+sentiment
+neutral
+01-12  19:04
+
+
+[('Solskjaer', 11), ('Mourinho', 7), ('öt', 5), ('norvég', 5), ('elleni', 5), ('első', 5), ('Liu', 5), ('Manchester', 4), ('United', 4), ('Ferguson', 4), ('francia', 4), ('csapat', 4), ('tiltakozók', 4), ('szerzett', 3), ('United,', 3), ('meccs', 3), ('morál', 3), ('jobb', 3), ('portugál', 3), ('Rashford', 3), ('meccsen', 3), ('védekező', 3), ('támadó', 3), ('Sőt,', 3), ('pár', 3)]
+input sentence
+Solskjaer Mourinho öt norvég elleni első Liu Manchester United Ferguson francia csapat tiltakozók szerzett United, meccs morál jobb portugál Rashford meccsen védekező támadó Sőt, pár
+negative probability
+0.5487410948062145
+positive probalitiy
+0.45125890519378287
+sentiment
+neutral
+01-12  19:19
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 11), ('Solskjaer', 11), ('szerző', 10), ('van.', 9), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Ezt', 8), ('üreshordozó', 8), ('szerzők', 7), ('meg.', 7), ('Mi', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7), ('zene', 7), ('pár', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első Solskjaer szerző van. alapján fog pontosan jogkezelő Ezt üreshordozó szerzők meg. Mi ezeket tudja elhangzás magyar jön zene pár
+negative probability
+0.5129977619464897
+positive probalitiy
+0.4870022380535102
+sentiment
+neutral
+01-12  19:34
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 10), ('szerző', 10), ('Solskjaer', 10), ('van.', 9), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Ezt', 8), ('üreshordozó', 8), ('szerzők', 7), ('meg.', 7), ('Mi', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7), ('zene', 7), ('pár', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző Solskjaer van. alapján fog pontosan jogkezelő Ezt üreshordozó szerzők meg. Mi ezeket tudja elhangzás magyar jön zene pár
+negative probability
+0.5129977619464897
+positive probalitiy
+0.4870022380535102
+sentiment
+neutral
+01-12  19:49
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 10), ('szerző', 10), ('Solskjaer', 10), ('van.', 9), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Ezt', 8), ('üreshordozó', 8), ('szerzők', 7), ('meg.', 7), ('Mi', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7), ('zene', 7), ('pár', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző Solskjaer van. alapján fog pontosan jogkezelő Ezt üreshordozó szerzők meg. Mi ezeket tudja elhangzás magyar jön zene pár
+negative probability
+0.5129977619464897
+positive probalitiy
+0.4870022380535102
+sentiment
+neutral
+01-12  20:03
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 10), ('szerző', 10), ('Solskjaer', 10), ('van.', 9), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Ezt', 8), ('üreshordozó', 8), ('szerzők', 7), ('meg.', 7), ('Mi', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7), ('zene', 7), ('pár', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző Solskjaer van. alapján fog pontosan jogkezelő Ezt üreshordozó szerzők meg. Mi ezeket tudja elhangzás magyar jön zene pár
+negative probability
+0.5129977619464897
+positive probalitiy
+0.4870022380535102
+sentiment
+neutral
+01-12  20:18
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 10), ('szerző', 10), ('Solskjaer', 10), ('van.', 9), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Ezt', 8), ('amerikai', 8), ('üreshordozó', 8), ('szerzők', 7), ('meg.', 7), ('Mi', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7), ('zene', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző Solskjaer van. alapján fog pontosan jogkezelő Ezt amerikai üreshordozó szerzők meg. Mi ezeket tudja elhangzás magyar jön zene
+negative probability
+0.5308010525394576
+positive probalitiy
+0.46919894746054336
+sentiment
+neutral
+01-12  20:33
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 10), ('szerző', 10), ('Solskjaer', 10), ('van.', 9), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Ezt', 8), ('amerikai', 8), ('üreshordozó', 8), ('szerzők', 7), ('meg.', 7), ('Mi', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7), ('zene', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző Solskjaer van. alapján fog pontosan jogkezelő Ezt amerikai üreshordozó szerzők meg. Mi ezeket tudja elhangzás magyar jön zene
+negative probability
+0.5308010525394576
+positive probalitiy
+0.46919894746054336
+sentiment
+neutral
+01-12  20:48
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 11), ('szerző', 10), ('van.', 10), ('Solskjaer', 10), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Mi', 8), ('Ezt', 8), ('amerikai', 8), ('üreshordozó', 8), ('szerzők', 7), ('közös', 7), ('meg.', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző van. Solskjaer alapján fog pontosan jogkezelő Mi Ezt amerikai üreshordozó szerzők közös meg. ezeket tudja elhangzás magyar jön
+negative probability
+0.45380573536043545
+positive probalitiy
+0.5461942646395644
+sentiment
+neutral
+01-12  21:03
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 11), ('szerző', 10), ('van.', 10), ('Solskjaer', 10), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Mi', 8), ('Ezt', 8), ('amerikai', 8), ('üreshordozó', 8), ('szerzők', 7), ('közös', 7), ('meg.', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző van. Solskjaer alapján fog pontosan jogkezelő Mi Ezt amerikai üreshordozó szerzők közös meg. ezeket tudja elhangzás magyar jön
+negative probability
+0.45380573536043545
+positive probalitiy
+0.5461942646395644
+sentiment
+neutral
+01-12  21:18
+
+
+[('Tehát', 22), ('az,', 16), ('Artisjus', 12), ('jogdíjat', 12), ('online', 12), ('első', 11), ('szerző', 10), ('van.', 10), ('Solskjaer', 10), ('alapján', 9), ('fog', 9), ('pontosan', 8), ('jogkezelő', 8), ('Mi', 8), ('Ezt', 8), ('amerikai', 8), ('üreshordozó', 8), ('szerzők', 7), ('közös', 7), ('meg.', 7), ('ezeket', 7), ('tudja', 7), ('elhangzás', 7), ('magyar', 7), ('jön', 7)]
+input sentence
+Tehát az, Artisjus jogdíjat online első szerző van. Solskjaer alapján fog pontosan jogkezelő Mi Ezt amerikai üreshordozó szerzők közös meg. ezeket tudja elhangzás magyar jön
+negative probability
+0.45380573536043545
+positive probalitiy
+0.5461942646395644
+sentiment
+neutral
+01-12  21:33
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  21:48
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  22:03
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  22:18
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  22:33
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  22:47
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  23:02
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  23:17
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  23:32
+
+
+[('Tehát', 22), ('az,', 16), ('online', 15), ('Artisjus', 12), ('jogdíjat', 12), ('szerző', 11), ('első', 10), ('van.', 10), ('pontosan', 9), ('fog', 9), ('egyébként', 8), ('magyar', 8), ('amerikai', 8), ('Mi', 8), ('jogkezelő', 8), ('alapján', 8), ('Ezt', 8), ('összes', 7), ('szerzők', 7), ('ezeket', 7), ('elhangzás', 7), ('zene', 7), ('magánmásolási', 7), ('üreshordozó', 7), ('díj', 7)]
+input sentence
+Tehát az, online Artisjus jogdíjat szerző első van. pontosan fog egyébként magyar amerikai Mi jogkezelő alapján Ezt összes szerzők ezeket elhangzás zene magánmásolási üreshordozó díj
+negative probability
+0.266246660345313
+positive probalitiy
+0.7337533396546853
+sentiment
+positive
+01-12  23:47
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  00:02
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  00:17
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  00:32
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  00:47
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  01:02
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  01:17
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  01:32
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  01:46
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  02:01
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  02:16
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  02:31
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  02:46
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  03:01
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  03:16
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  03:31
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  03:46
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  04:01
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  04:16
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  04:30
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  04:45
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  05:00
+
+
+[('első', 5), ('egyébként', 5), ('Liu', 5), ('Newton', 5), ('elején', 4), ('ellenzéki', 4), ('igazi', 4), ('okos', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('második', 3), ('Gerulaitis', 3), ('január', 3), ('végül', 3), ('amerikai', 3), ('torna', 3), ('sikerült', 3), ('állítólag', 3), ('CES', 3), ('nagyjából', 3), ('perc', 3), ('online', 3), ('mennyire', 3)]
+input sentence
+első egyébként Liu Newton elején ellenzéki igazi okos Australian Grand akartak egyet második Gerulaitis január végül amerikai torna sikerült állítólag CES nagyjából perc online mennyire
+negative probability
+0.4594149687467875
+positive probalitiy
+0.5405850312532101
+sentiment
+neutral
+01-13  05:15
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  05:30
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  05:45
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  06:00
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  06:15
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  06:30
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  06:45
+
+
+[('első', 9), ('Cowboys', 7), ('második', 6), ('előtt', 5), ('egyébként', 5), ('Liu', 5), ('végül', 4), ('pont', 4), ('ellenzéki', 4), ('perc', 4), ('igazi', 4), ('le', 4), ('okos', 4), ('Colts', 4), ('Australian', 3), ('Grand', 3), ('akartak', 3), ('egyet', 3), ('jött', 3), ('sikeres', 3), ('Gerulaitis', 3), ('január', 3), ('okozott', 3), ('elején', 3), ('amerikai', 3)]
+input sentence
+első Cowboys második előtt egyébként Liu végül pont ellenzéki perc igazi le okos Colts Australian Grand akartak egyet jött sikeres Gerulaitis január okozott elején amerikai
+negative probability
+0.2482502852099582
+positive probalitiy
+0.7517497147900406
+sentiment
+positive
+01-13  07:00
+
